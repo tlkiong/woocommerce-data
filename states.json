@@ -1,0 +1,19 @@
+{
+  "AO": [{
+      "code": "BGO",
+      "name": "Bengo"
+  }, {
+      "code": "BLU",
+      "name": "Benguela"
+  }],
+  "AR": [{
+      "code": "C",
+      "name": "Ciudad Aut&oacute;noma de Buenos Aires"
+  }, {
+      "code": "B",
+      "name": "Buenos Aires"
+  }, {
+      "code": "K",
+      "name": "Catamarca"
+  }]
+}
