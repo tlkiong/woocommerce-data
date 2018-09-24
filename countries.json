@@ -117,6 +117,576 @@
     "BI": {
       "name": "Burundi"
     },
+    "KH": {
+      "name": "Cambodia"
+    },
+    "CM": {
+      "name": "Cameroon"
+    },
+    "CA": {
+      "name": "Canada"
+    },
+    "CV": {
+      "name": "Cape Verde"
+    },
+    "KY": {
+      "name": "Cayman Islands"
+    },
+    "CF": {
+      "name": "Central African Republic"
+    },
+    "TD": {
+      "name": "Chad"
+    },
+    "CL": {
+      "name": "Chile"
+    },
+    "CN": {
+      "name": "China"
+    },
+    "CX": {
+      "name": "Christmas Island"
+    },
+    "CC": {
+      "name": "Cocos (Keeling) Islands"
+    },
+    "CO": {
+      "name": "Colombia"
+    },
+    "KM": {
+      "name": "Comoros"
+    },
+    "CG": {
+      "name": "Congo (Brazzaville)"
+    },
+    "CD": {
+      "name": "Congo (Kinshasa)"
+    },
+    "CK": {
+      "name": "Cook Islands"
+    },
+    "CR": {
+      "name": "Costa Rica"
+    },
+    "HR": {
+      "name": "Croatia"
+    },
+    "CU": {
+      "name": "Cuba"
+    },
+    "CW": {
+      "name": "Cura&ccedil;ao"
+    },
+    "CY": {
+      "name": "Cyprus"
+    },
+    "CZ": {
+      "name": "Czech Republic"
+    },
+    "DK": {
+      "name": "Denmark"
+    },
+    "DJ": {
+      "name": "Djibouti"
+    },
+    "DM": {
+      "name": "Dominica"
+    },
+    "DO": {
+      "name": "Dominican Republic"
+    },
+    "EC": {
+      "name": "Ecuador"
+    },
+    "EG": {
+      "name": "Egypt"
+    },
+    "SV": {
+      "name": "El Salvador"
+    },
+    "GQ": {
+      "name": "Equatorial Guinea"
+    },
+    "ER": {
+      "name": "Eritrea"
+    },
+    "EE": {
+      "name": "Estonia"
+    },
+    "ET": {
+      "name": "Ethiopia"
+    },
+    "FK": {
+      "name": "Falkland Islands"
+    },
+    "FO": {
+      "name": "Faroe Islands"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
+    "A": {
+      "name": "Afghanistan"
+    },
     "A": {
       "name": "Afghanistan"
     },
