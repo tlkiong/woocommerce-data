@@ -3459,19 +3459,19 @@
   }, {
       "code": "TZ25",
       "name": "Tanga"
-  } {
+  }, {
       "code": "TZ26",
       "name": "Manyara"
   }, {
       "code": "TZ27",
       "name": "Geita"
-  } {
+  }, {
       "code": "TZ28",
       "name": "Katavi"
   }, {
       "code": "TZ29",
       "name": "Njombe"
-  } {
+  }, {
       "code": "TZ30",
       "name": "Simiyu"
   }],
@@ -3647,7 +3647,7 @@
   }, {
       "code": "GP",
       "name": "Gauteng"
-  } {
+  }, {
       "code": "KZN",
       "name": "KwaZulu-Natal"
   }, {
@@ -3666,5 +3666,4 @@
       "code": "WC",
       "name": "Western Cape"
   }]
-
 }
